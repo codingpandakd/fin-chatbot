@@ -1,0 +1,35 @@
+{
+    "balance": 500.0,
+    "transactions": [
+        {
+            "date": "2025-05-01",
+            "amount": -50.0,
+            "description": "Coffee Shop",
+            "category": "food"
+        },
+        {
+            "date": "2025-05-02",
+            "amount": -20.0,
+            "description": "Grocery Store",
+            "category": "food"
+        },
+        {
+            "date": "2025-05-03",
+            "amount": 100.0,
+            "description": "Salary Deposit",
+            "category": "income"
+        },
+        {
+            "date": "2025-05-04",
+            "amount": -30.0,
+            "description": "Restaurant",
+            "category": "food"
+        },
+        {
+            "date": "2025-05-05",
+            "amount": -15.0,
+            "description": "Bus Ticket",
+            "category": "transport"
+        }
+    ]
+}
