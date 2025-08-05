@@ -10,7 +10,7 @@ DEFAULT_ACCOUNT = {
         {"date": "2025-05-01", "amount": -50.00, "description": "Coffee Shop", "category": "food"},
         {"date": "2025-05-02", "amount": -20.00, "description": "Grocery Store", "category": "food"},
         {"date": "2025-05-03", "amount": 100.00, "description": "Salary Deposit", "category": "income"},
-        {"date": "2025-05-04", "uvamount": -30.00, "description": "Restaurant", "category": "food"},
+        {"date": "2025-05-04", "amount": -30.00, "description": "Restaurant", "category": "food"},
         {"date": "2025-05-05", "amount": -15.00, "description": "Bus Ticket", "category": "transport"},
     ]
 }
